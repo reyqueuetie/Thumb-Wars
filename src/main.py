@@ -15,7 +15,7 @@ def main():
     player1 = AggressivePlayer("Tom", random.choice(strategies))
     player2 = DefensivePlayer("Jerry", random.choice(strategies))
 
-
+ 
     game_state_manager = GameStateManager([player1, player2])
 
     game = ThumbWars(game_state_manager)
