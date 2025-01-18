@@ -1,0 +1,189 @@
+[
+  {
+    "timestamp": 1734757402.7970054,
+    "state": {
+      "players": {
+        "Tom": 49.121060710227376,
+        "Jerry": 50.0
+      },
+      "thumb_position": -1.757878579545255,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757402.8019724,
+    "state": {
+      "players": {
+        "Tom": 49.121060710227376,
+        "Jerry": 44.38935540572371
+      },
+      "thumb_position": 9.463410609007324,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757403.819133,
+    "state": {
+      "players": {
+        "Tom": 48.60905688604925,
+        "Jerry": 44.38935540572371
+      },
+      "thumb_position": 8.439402960651073,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757403.862852,
+    "state": {
+      "players": {
+        "Tom": 48.60905688604925,
+        "Jerry": 37.846680098314884
+      },
+      "thumb_position": 21.524753575468733,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757404.8828945,
+    "state": {
+      "players": {
+        "Tom": 47.584637330869185,
+        "Jerry": 37.846680098314884
+      },
+      "thumb_position": 19.475914465108602,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757404.934548,
+    "state": {
+      "players": {
+        "Tom": 47.584637330869185,
+        "Jerry": 32.58561155987556
+      },
+      "thumb_position": 29.998051541987248,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757405.9456365,
+    "state": {
+      "players": {
+        "Tom": 46.51816746138697,
+        "Jerry": 32.58561155987556
+      },
+      "thumb_position": 27.86511180302282,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757405.9516318,
+    "state": {
+      "players": {
+        "Tom": 46.51816746138697,
+        "Jerry": 28.6983660615939
+      },
+      "thumb_position": 35.639602799586136,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757407.182864,
+    "state": {
+      "players": {
+        "Tom": 46.22334121344567,
+        "Jerry": 28.6983660615939
+      },
+      "thumb_position": 35.049950303703525,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757407.1938221,
+    "state": {
+      "players": {
+        "Tom": 46.22334121344567,
+        "Jerry": 25.611046295016553
+      },
+      "thumb_position": 41.22458983685822,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757408.2061458,
+    "state": {
+      "players": {
+        "Tom": 45.82643980113275,
+        "Jerry": 25.611046295016553
+      },
+      "thumb_position": 40.43078701223237,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757408.2121353,
+    "state": {
+      "players": {
+        "Tom": 45.82643980113275,
+        "Jerry": 22.977397245929566
+      },
+      "thumb_position": 45.698085110406346,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757409.230176,
+    "state": {
+      "players": {
+        "Tom": 45.0295548677394,
+        "Jerry": 22.977397245929566
+      },
+      "thumb_position": 44.104315243619645,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757409.240135,
+    "state": {
+      "players": {
+        "Tom": 45.0295548677394,
+        "Jerry": 20.352905295327353
+      },
+      "thumb_position": 49.35329914482407,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757410.2545524,
+    "state": {
+      "players": {
+        "Tom": 43.95555449001657,
+        "Jerry": 20.352905295327353
+      },
+      "thumb_position": 47.205298389378406,
+      "game_in_progress": true
+    }
+  },
+  {
+    "timestamp": 1734757410.2856479,
+    "state": {
+      "players": {
+        "Tom": 43.95555449001657,
+        "Jerry": 17.598414114889326
+      },
+      "thumb_position": 52.71428075025446,
+      "game_in_progress": false
+    }
+  },
+  {
+    "timestamp": 1734757410.2995431,
+    "state": {
+      "players": {
+        "Tom": 43.95555449001657,
+        "Jerry": 17.598414114889326
+      },
+      "thumb_position": 52.71428075025446,
+      "game_in_progress": false
+    }
+  }
+]
